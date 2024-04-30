@@ -1,10 +1,10 @@
-#Análise de Dados com Python e Plotly
+# Análise de Dados com Python e Plotly
 
-###Objetivo
+### Objetivo
 
 O objetivo deste projeto é realizar uma análise exploratória de dados utilizando Python e a biblioteca Plotly. Vamos analisar um conjunto de dados que contém informações sobre educação, estado civil e renda de indivíduos.
 
-#Passos Realizados
+# Passos Realizados
 Carregamento dos Dados: Os dados foram carregados utilizando a biblioteca Pandas.
 Limpeza dos Dados: Realizamos uma limpeza inicial dos dados, verificando e tratando valores ausentes, inconsistências e duplicatas.
 Análise Exploratória: Exploramos as principais estatísticas descritivas dos dados, como média, mediana e distribuição.
@@ -16,7 +16,7 @@ Visualizações com Plotly:
 - Pandas
 - Plotly
 
-#Execução do Código
+# Execução do Código
 - Certifique-se de ter todas as dependências instaladas.
 - Clone este repositório em sua máquina local.
 - Abra o notebook analysis.ipynb em seu ambiente Jupyter.
